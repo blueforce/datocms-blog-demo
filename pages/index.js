@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Beispiele mit {CMS_NAME}</title>
+          <title>Blueforce Blog erstellt mit {CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />
