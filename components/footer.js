@@ -19,6 +19,7 @@ export default function Footer() {
           </div>
         </div>
           <div className="flex flex-col lg:flex-row items-center">
+          <p className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
            ©2020 Made with ♡ by Blueforce enpowered with 
             <a 
              href={`https://datocms.com`} 
@@ -26,6 +27,7 @@ export default function Footer() {
             >
              DatoCMS
            </a>
+           </p>
           </div>
       </Container>
     </footer>
