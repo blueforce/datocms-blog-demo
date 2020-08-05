@@ -14,25 +14,14 @@ export default function Alert({ preview }) {
         <div className="py-2 text-center text-sm">
           {preview ? (
             <>
-              This is page is a preview.{' '}
+              Dies ist eine Testseite mit viel ♡ gemacht von.{' '}
               <a
-                href="/api/exit-preview"
+                href="https://www.blueforce.ch"
                 className="underline hover:text-cyan duration-200 transition-colors"
               >
-                Click here
+                Blueforce Internet Solutions
               </a>{' '}
-              to exit preview mode.
-            </>
-          ) : (
-            <>
-              The source code for this blog is{' '}
-              <a
-                href={`https://github.com/zeit/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-                className="underline hover:text-success duration-200 transition-colors"
-              >
-                available on GitHub
-              </a>
-              .
+              beendet die Vorschau.
             </>
           )}
         </div>
