@@ -16,9 +16,17 @@ export default function Footer() {
             >
               Auf GitHub anschauen
             </a>
-            ©2019 Made with ♡ by Blueforce enpowered with <a href="https://datocms.com">DatoCMS</a>
           </div>
         </div>
+          <div className="py-28 flex flex-col lg:flex-row items-center">
+           ©2020 Made with ♡ by Blueforce enpowered with 
+            <a 
+             href={`https://datocms.com`} 
+             target={`_blank`}
+            >
+             DatoCMS
+           </a>
+          </div>
       </Container>
     </footer>
   )
