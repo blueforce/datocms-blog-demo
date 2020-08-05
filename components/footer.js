@@ -18,9 +18,9 @@ export default function Footer() {
             </a>
           </div>
         </div>
-          <div className="py-2 flex flex-col lg:flex-row items-center">
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-           ©2020 Made with ♡ by Blueforce enpowered with .
+          <div className="py-28 flex flex-col lg:flex-row items-center">
+          <div className="flex flex-col lg:flex-row justify-center text-center lg:pr-4 lg:w-1">
+           ©2020 Made with ♡ by Blueforce enpowered with
             <a 
              href={`https://datocms.com`} 
              target={`_blank`}
