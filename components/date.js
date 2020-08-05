@@ -2,5 +2,5 @@ import { parseISO, format } from 'date-fns'
 
 export default function Date({ dateString }) {
   const date = parseISO(dateString)
-  return <time dateTime={dateString}>{format(date, 'dd. mm. yyyy')}</time>
+  return <time dateTime={dateString}>{format(date, 'dd. m. yyyy')}</time>
 }
