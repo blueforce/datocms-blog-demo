@@ -7,12 +7,12 @@ export default function Intro() {
         Blueforce Blog.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Eine Testumgebung für ein nächstes{' '}
+        Hier schreibt{' '}
         <a
-          href="https://powermedia.ch/"
+          href="https://www.linkedin.com/in/rogerperren/"
           className="underline hover:text-success duration-200 transition-colors"
         >
-          Kundenprojekt
+          Roger Perren
         </a>{' '}
         von{' '}
         <a
@@ -20,8 +20,7 @@ export default function Intro() {
           className="underline hover:text-success duration-200 transition-colors"
         >
           Blueforce Internet Solutions
-        </a>
-        .
+        </a> über dies und das.
       </h4>
     </section>
   )
