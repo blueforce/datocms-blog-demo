@@ -12,10 +12,11 @@ export default function Alert({ preview }) {
     >
       <Container>
         <div className="py-2 text-center text-sm">
-              Dies ist eine Testseite mit viel ♡ gemacht von {' '}
+              Dies ist eine Testseite von {' '}
               <a
                 href="https://www.blueforce.ch"
                 className="underline hover:text-cyan duration-200 transition-colors"
+                target={`_blank`}
               >
                 Blueforce Internet Solutions
               </a>
