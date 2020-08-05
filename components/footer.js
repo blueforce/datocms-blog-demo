@@ -22,6 +22,7 @@ export default function Footer() {
             >
               Auf GitHub anschauen
             </a>
+             <p>©2019 Made with ♡ by Blueforce enpowered with <a href="https://datocms.com">DatoCMS</a></p>
           </div>
         </div>
       </Container>
