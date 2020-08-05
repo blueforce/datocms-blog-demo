@@ -19,8 +19,8 @@ export default function Footer() {
           </div>
         </div>
           <div className="flex flex-col lg:flex-row items-center">
-          <p className="lex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-           ©2020 Made with ♡ by Blueforce enpowered with 
+          <p className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
+           ©2020 Made with ♡ by Blueforce enpowered with .
             <a 
              href={`https://datocms.com`} 
              target={`_blank`}
