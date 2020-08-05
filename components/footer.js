@@ -20,7 +20,7 @@ export default function Footer() {
         </div>
           <div className="py-2 flex flex-col lg:flex-row items-center">
           <div className="flex justify-center text-center">
-          ©2020 Made with ♡ by Blueforce enpowered with{' '}
+          ©2020 Made with ♡ by Blueforce enpowered with {' '}
         <a
           href="https://datocms.com"
           target="_blank"
