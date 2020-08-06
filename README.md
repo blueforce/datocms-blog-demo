@@ -10,7 +10,7 @@ The purpose of this repo is to have a quick start reference that can be set up w
 
 Have a look at the end result live:
 
-### [https://news.blueforce/](https://news.blueforce.ch/)
+### [https://news.blueforce.ch/](https://news.blueforce.ch/)
 
 
 ## How to use
