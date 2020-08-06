@@ -7,6 +7,7 @@ The author of this example is [chibicode](https://github.com/chibicode) and you 
 The purpose of this repo is to have a quick start reference that can be set up with the "one-click" button below.
 
 Changelog meines Blog-Templates gibt es hier:
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/170609e9-a216-4e36-a481-7589a308ba54/deploy-status)](https://app.netlify.com/sites/blueforc/deploys)
 
 ## Demo
