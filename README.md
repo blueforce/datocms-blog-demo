@@ -1,4 +1,4 @@
-# A statically generated blog example using Next.js and DatoCMS
+# A statically generated blog using Next.js and DatoCMS
 
 This example showcases Next.js's [Static Generation](/docs/basic-features/pages.md) feature using [DatoCMS](https://www.datocms.com/) as the data source.
 
@@ -10,7 +10,7 @@ The purpose of this repo is to have a quick start reference that can be set up w
 
 Have a look at the end result live:
 
-### [https://next-blog-datocms.now.sh/](https://next-blog-datocms.now.sh/)
+### [https://news.blueforce/](https://news.blueforce.ch/)
 
 
 ## How to use
